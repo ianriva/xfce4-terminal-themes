@@ -1,0 +1,8 @@
+[Scheme]
+Name=mashup
+ColorForeground=#b2a191
+ColorBold=#b2a191
+ColorBackground=#171717
+ColorCursor=#b2a191
+ColorPalette=#202020;#bf3f34;#707d22;#bf7a29;#627a92;#75507b;#757978;#b2a191;#404040;#ff6c5f;#b8ca4b;#c7a551;#95b9de;#ad7fa8;#9fa590;#e8d0c3
+ColorBoldUseDefault=FALSE

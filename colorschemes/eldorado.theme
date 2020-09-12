@@ -1,0 +1,8 @@
+[Scheme]
+Name=eldorado
+ColorForeground=#a2a2a2
+ColorBold=#a2a2a2
+ColorBackground=#292929
+ColorCursor=#a2a2a2
+ColorPalette=#282828;#a9635d;#468459;#84763d;#5879af;#9c6594;#008592;#cfcfcf;#777777;#ffbbb2;#9ddeaf;#e0ce91;#b3d1ff;#fabdf0;#79e0ed;#ffffff
+ColorBoldUseDefault=FALSE

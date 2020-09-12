@@ -1,0 +1,8 @@
+[Scheme]
+Name=vacu
+ColorForeground=#d2c5bc
+ColorBold=#d2c5bc
+ColorBackground=#101010
+ColorCursor=#d2c5bc
+ColorPalette=#202020;#b91e2e;#81957c;#f9bb80;#356579;#2d2031;#0b3452;#909090;#606060;#d14548;#a7b79a;#fae3a0;#7491a1;#87314e;#0f829d;#fff0f0
+ColorBoldUseDefault=FALSE

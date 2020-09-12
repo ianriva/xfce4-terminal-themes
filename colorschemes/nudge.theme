@@ -1,0 +1,8 @@
+[Scheme]
+Name=nudge
+ColorForeground=#ffffff
+ColorBold=#ffffff
+ColorBackground=#000000
+ColorCursor=#ffffff
+ColorPalette=#658280;#822f5d;#184a31;#9d4500;#304465;#330801;#175552;#110005;#8ca8a6;#a24b76;#28634d;#9d5823;#415c77;#532706;#3a6868;#330801
+ColorBoldUseDefault=FALSE

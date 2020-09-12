@@ -1,0 +1,8 @@
+[Scheme]
+Name=marrakesh
+ColorForeground=#948e48
+ColorBold=#948e48
+ColorBackground=#201602
+ColorCursor=#948e48
+ColorPalette=#201602;#c35359;#18974e;#a88339;#477ca1;#8868b3;#75a738;#948e48;#6c6823;#c35359;#18974e;#a88339;#477ca1;#8868b3;#75a738;#faf0a5
+ColorBoldUseDefault=FALSE

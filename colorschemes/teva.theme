@@ -1,0 +1,8 @@
+[Scheme]
+Name=teva
+ColorForeground=#746c48
+ColorBold=#746c48
+ColorBackground=#170f0d
+ColorCursor=#746c48
+ColorPalette=#191f31;#282e39;#303844;#3b444a;#3c4435;#4e534f;#5d5d35;#66695d;#706d56;#8b7852;#909581;#91703a;#948658;#a19662;#ad9152;#c6a13f
+ColorBoldUseDefault=FALSE

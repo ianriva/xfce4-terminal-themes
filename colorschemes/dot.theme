@@ -1,0 +1,8 @@
+[Scheme]
+Name=dot
+ColorForeground=#d7d0c7
+ColorBold=#d7d0c7
+ColorBackground=#151515
+ColorCursor=#d7d0c7
+ColorPalette=#101010;#e84f4f;#b8d68c;#e1aa5d;#7dc1cf;#9b64fb;#6d878d;#dddddd;#404040;#d23d3d;#a0cf5d;#f39d21;#4e9fb1;#8542ff;#42717b;#dddddd
+ColorBoldUseDefault=FALSE

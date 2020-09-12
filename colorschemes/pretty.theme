@@ -1,0 +1,8 @@
+[Scheme]
+Name=pretty
+ColorForeground=#888888
+ColorBold=#888888
+ColorBackground=#151515
+ColorCursor=#888888
+ColorPalette=#292929;#cf6a4c;#19cb00;#fad07a;#8197bf;#8787af;#668799;#888888;#525252;#ff9d80;#23fd00;#ffefbf;#accaff;#c4c4ff;#80bfaf;#e8e8d3
+ColorBoldUseDefault=FALSE

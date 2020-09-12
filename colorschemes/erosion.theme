@@ -1,0 +1,8 @@
+[Scheme]
+Name=erosion
+ColorForeground=#bea492
+ColorBold=#bea492
+ColorBackground=#181512
+ColorCursor=#bea492
+ColorPalette=#332d29;#8c644c;#746c48;#908a66;#646a6d;#605655;#4b5c5e;#504339;#817267;#9f7155;#857b52;#9c956e;#71777a;#656565;#556d70;#9a875f
+ColorBoldUseDefault=FALSE

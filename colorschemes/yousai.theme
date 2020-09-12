@@ -1,0 +1,8 @@
+[Scheme]
+Name=yousai
+ColorForeground=#34302d
+ColorBold=#34302d
+ColorBackground=#f5e7de
+ColorCursor=#34302d
+ColorPalette=#666661;#992e2e;#4c3226;#a67c53;#4c7399;#bf9986;#d97742;#34302d;#7f7f7a;#b23636;#664233;#bf8f60;#5986b2;#d9ae98;#f2854a;#4c4742
+ColorBoldUseDefault=FALSE

@@ -1,0 +1,8 @@
+[Scheme]
+Name=sero
+ColorForeground=#c0b18b
+ColorBold=#c0b18b
+ColorBackground=#1f1f1f
+ColorCursor=#c0b18b
+ColorPalette=#4a3637;#d17b49;#7b8748;#af865a;#535c5c;#775759;#6d715e;#c0b18b;#4a3637;#d17b49;#7b8748;#af865a;#535c5c;#775759;#6d715e;#c0b18b
+ColorBoldUseDefault=FALSE

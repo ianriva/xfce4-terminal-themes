@@ -1,0 +1,8 @@
+[Scheme]
+Name=unified
+ColorForeground=#d3d3d3
+ColorBold=#d3d3d3
+ColorBackground=#111111
+ColorCursor=#d3d3d3
+ColorPalette=#382c2f;#48393a;#65534d;#79665a;#836e5e;#8e7766;#917781;#9a846d;#ac9377;#baa17e;#bca282;#c1a67e;#cfb48e;#d1baa3;#dfc39b;#eed8c4
+ColorBoldUseDefault=FALSE

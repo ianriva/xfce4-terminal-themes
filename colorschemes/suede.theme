@@ -1,0 +1,8 @@
+[Scheme]
+Name=suede
+ColorForeground=#746c48
+ColorBold=#746c48
+ColorBackground=#170f0d
+ColorCursor=#746c48
+ColorPalette=#392925;#98724c;#908f32;#aa964c;#7b854e;#6b5644;#5c5142;#c8b55b;#544b2e;#af652f;#c3c13d;#c8b55b;#70a16c;#98724c;#778725;#e4dc8c
+ColorBoldUseDefault=FALSE

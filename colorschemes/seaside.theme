@@ -1,0 +1,8 @@
+[Scheme]
+Name=seaside
+ColorForeground=#8ca68c
+ColorBold=#8ca68c
+ColorBackground=#131513
+ColorCursor=#8ca68c
+ColorPalette=#131513;#e6193c;#29a329;#c3c322;#3d62f5;#ad2bee;#1999b3;#8ca68c;#687d68;#e6193c;#29a329;#c3c322;#3d62f5;#ad2bee;#1999b3;#f0fff0
+ColorBoldUseDefault=FALSE

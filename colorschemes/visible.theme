@@ -1,0 +1,8 @@
+[Scheme]
+Name=visible
+ColorForeground=#666699
+ColorBold=#666699
+ColorBackground=#000000
+ColorCursor=#666699
+ColorPalette=#333366;#6666cc;#0099cc;#3366cc;#006699;#0066ff;#669999;#99cccc;#333399;#9999ff;#00ccff;#6699ff;#0099cc;#0099ff;#66cccc;#ccffff
+ColorBoldUseDefault=FALSE
